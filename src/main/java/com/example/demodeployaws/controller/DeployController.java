@@ -10,6 +10,6 @@ public class DeployController {
 
 	@GetMapping
 	public String fazerDeploy() {
-		return "Realizando deploy na AWS com Jenkins";
+		return "Realizando deploy na AWS com Jenkins 2";
 	}
 }
